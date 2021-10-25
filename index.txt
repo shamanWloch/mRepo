@@ -7,3 +7,4 @@ m6
 m7 (master version)
 m8
 camera 1
+camera 2
