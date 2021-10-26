@@ -4,3 +4,9 @@ m3b (next_branch Version)
 m4
 m5
 m6
+m7 (master version)
+m8
+camera 1
+m9
+camera 2
+m10
